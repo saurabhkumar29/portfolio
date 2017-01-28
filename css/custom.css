@@ -173,3 +173,7 @@ a{
 .col-xs-6{
   padding-bottom: 10px;
 }
+
+.list-inline{
+	left:50%;
+}
